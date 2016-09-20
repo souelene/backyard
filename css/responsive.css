@@ -1,0 +1,49 @@
+
+@media (max-width: 535px){
+	[class*="col-"] {
+		width: 100%;
+	}
+	
+	nav{
+		position: absolute;
+		top: 0;	
+	}
+	ul li{
+	padding:10px;
+
+	}
+
+	img{
+		margin:0;
+	}
+	
+	.fondo-1{
+		height:650px;
+	}
+
+}
+@media (max-width: 900px){
+		nav{
+		position: absolute;
+		top: 0;
+		right: 0;	
+	}
+	ul li{
+	padding:10px;
+
+	}
+
+	img{
+		margin:0;
+	}
+	
+	.fondo-1{
+		height:650px;
+	}
+}
+@media (max-width: 479px){
+	
+	.fondo-1{
+		padding-top:30px;
+	}
+}

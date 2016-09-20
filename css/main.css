@@ -1,0 +1,97 @@
+*{
+	font-family: 'Open Sans', sans-serif;
+}
+
+/*header*/
+header{
+	background-color: white;
+}
+img{
+	width:190px;
+	margin:10px 0;
+	
+}
+nav{
+	text-align: right;
+}
+a{
+	text-decoration:none;
+	cursor:pointer;
+	color:#808080;
+	font-size:15px;
+	
+}
+
+ul li{
+	list-style: none;
+	display: inline-block;
+	padding:20px;
+
+
+}
+/*header*/
+/*inicio contenido*/
+.fondo-1{
+	background-image: url(http://cdn.wallpapersafari.com/54/55/M49QI2.jpg);
+	background-size:37%;
+	background-position:center;
+	height:400px;
+	
+}
+.col-8 h1{
+	color:rgba(240,240,240,0.8);
+	font-size:50px;
+	margin-top:100px;
+	
+
+}
+.col-8 p{
+	color:white;
+	margin-top:20px;
+	font-size:14px;
+
+}
+/*fin contenido*/
+/* inico formulario*/
+form{
+	background-color:rgba(0,0,0,0.5);
+	border-radius:10px;
+	width:300px;
+	margin:10% auto;
+	padding:10px 20px;
+	
+}
+form h1{
+	color:rgba(240,240,240,0.8);
+	text-align:center;
+	margin-top:5%;
+}
+
+input{
+	margin:5px 0;
+	width: 100%;
+	padding:2%;
+	box-sizing:border-box;
+}
+.boton{
+	background-color:#8eb421;
+	color:#fff;
+}
+
+.boton:hover{
+	cursor:pointer;
+	background-color:#6a8d04;
+	color:#000000; 
+}
+
+footer{
+	background-color: white;
+	max-width:100%;	
+	margin-top:30px;
+	padding-bottom:20px;
+}
+footer p{
+	font-size:12px;
+	color:#C3C4C0;
+	padding-top:10px;
+}

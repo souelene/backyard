@@ -43,7 +43,10 @@
 }
 @media (max-width: 479px){
 	
+	header{
+		padding-bottom:-30px;
+	}
 	.fondo-1{
-		padding-top:30px;
+		border:1px white solid;
 	}
 }
